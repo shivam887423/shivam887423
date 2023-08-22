@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Analytics & Machine Learning Projects.**
 - 👨‍💻 Checkout my BI Portfolio: : https://linktr.ee/shivampandey24
-- 💬 Ask me about: **SQL,Machnie Learning, Python.**.
+- 💬 Ask me about: **SQL,Machnie Learning, Python.**
 - 🌻 I am available for: **Data Analyst/Scientist and Business Analyst roles.**
 - 📫 How to reach me: **shivampd09@gmail.com.**
 - ⭐ Explore my Live Visualization Dashboards:[**Click Here**](https://www.novypro.com/profile_projects/shivampandey)
