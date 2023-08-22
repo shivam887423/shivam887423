@@ -11,11 +11,11 @@
 - 🌱 I’m currently: **Mastering Tools like Python, SQL, Tableau, Excel and Power BI.**
 
 - 👯 I’m looking to collaborate on: **Data Analytics & Machine Learning Projects.**
-
-- 👨‍💻 All of my projects are available at: https://linktr.ee/shivampandey24
+- 👨‍💻 Checkout my BI Portfolio: : https://linktr.ee/shivampandey24
 - 💬 Ask me about: **SQL,Machnie Learning, Python.**.
 - 🌻 I am available for: **Data Analyst/Scientist and Business Analyst roles.**
 - 📫 How to reach me: **shivampd09@gmail.com.**
+- ⭐ Explore my Live Visualization Dashboards:[**Click Here**](https://www.novypro.com/profile_projects/shivampandey)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
