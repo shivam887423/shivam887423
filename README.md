@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam887423&label=Profile%20views&color=0e75b6&style=flat" alt="shivam887423" /> </p>
 
 - 🔭 I’m currently working at: **Preferred Square**
-- 💫 Experience: **Data Sciencist and Business Analyst Intern @The Sparks Foundation and @Oasis Infobyte.**
+- 💫 Experience: **Data Sciencist and Business Analyst Intern @Almabetter.**
 
 - 🌱 I’m currently: **Mastering Tools like Python, SQL, Tableau, Excel and Power BI.**
 
